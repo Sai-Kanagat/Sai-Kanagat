@@ -1,40 +1,39 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
-  <br/><br/>
-  <h1>⌖ SAI KANAGAT</h1>
-  <p><b>MARKETING ENGINEER · ARCHITECTING GROWTH SYSTEMS</b></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=900&size=60&pause=100000&color=000000&center=true&vCenter=true&width=800&height=100&lines=THE+GROWTH+ISSUE" alt="Title" />
   <br/>
+  <hr style="border: 2px solid black;">
+  <p><b>ISSUE 01</b> · <b>BOLOGNA, IT</b> · <b>EU WORK AUTHORISED</b> · <b>EST. 2018</b></p>
+  <hr style="border: 2px solid black;">
 </div>
 
-### 📐 PROJECT SCHEMATICS
+<br/>
 
-> **SPEC 01: THALLO**
-> *Type:* Marketing OS
-> *Materials:* Python, FastAPI, Next.js
-> *Status:* In active construction (28/42 modules).
-> *Description:* A human-in-the-loop system for SME marketing. Plans, drafts, checks, and publishes.
+### FEATURED STORY
+## Sai Kanagat: The Marketing Engineer
+*By The Portfolio*
 
-> **SPEC 02: CONTENT VIGILANTE**
-> *Type:* Local-first Application
-> *Materials:* TypeScript, npm, Vercel
-> *Description:* Brand-voice auditor and multi-platform composer with deterministic AI judges.
+Sai Kanagat doesn't just run campaigns; he builds the machines that make them work. Blending an industrial design background with hard technical skills, he operates at the rare intersection of strategy, code, and creative direction.
 
-> **SPEC 03: CORTEX STUDIO**
-> *Type:* Agentic AI
-> *Materials:* LangGraph, Python
-> *Description:* An 8-node agent graph with guardrails and human-in-the-loop approval.
+In this issue, we look at his recent systems:
+*   **Thallo:** An SME marketing OS.
+*   **Content Vigilante:** An open-source brand voice auditor.
+*   **Cortex Studio:** A multi-agent AI marketing engine.
+
+> "I build production-grade tools that solve real marketing problems—from multi-agent AI systems to consent-mode-compliant ad infrastructure."
 
 <br/>
 
-### 🧱 STRUCTURAL MATERIALS
-| Foundation | Framing | Finishes |
-| :--- | :--- | :--- |
-| GA4 / GTM | Next.js / React | Brand Strategy |
-| HubSpot / Klaviyo | Python / FastAPI | Art Direction |
-| Meta / Google Ads | PostgreSQL / Docker | Copywriting |
+### INSIDE THE STACK
+**STRATEGY:** Brand Positioning · Go-to-Market · Paid Media
+**ENGINEERING:** Next.js · Python · LangGraph · API Integrations
+**DESIGN:** Art Direction · Set Design · Creative Direction
 
 <br/>
+
 <div align="center">
-  <p><i>Bologna, Italy · EU Work Authorised</i></p>
-  <a href="https://www.saikanagat.com">[ VIEW FULL BLUEPRINT (PORTFOLIO) ]</a>
+  <br/>
+  <p><b>SUBSCRIBE TO THE WORK</b></p>
+  <a href="https://www.saikanagat.com"><b>READ THE PORTFOLIO</b></a>
+  <br/><br/>
+  <code>|||| | |||| ||| || |||| |||</code>
 </div>
