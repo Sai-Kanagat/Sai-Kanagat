@@ -1,55 +1,31 @@
 <div align="center">
-  <br/>
-  <h2><i>PORTFOLIO & SYSTEMS</i></h2>
-  <h1>SAI KANAGAT</h1>
-  <p><b>MARKETING ENGINEER & GROWTH STRATEGIST</b></p>
-  <br/>
-  <hr style="width:50%; border: 1px solid #000;">
-  <br/>
-  <p><i>"I don't just run campaigns. I engineer the systems that make them repeatable."</i></p>
-  <br/>
-  <p>
-    <a href="https://www.saikanagat.com">WEBSITE</a> &nbsp;|&nbsp; 
-    <a href="https://linkedin.com/in/sai-kanagat">LINKEDIN</a> &nbsp;|&nbsp; 
-    <a href="mailto:saikanagat1117@gmail.com">EMAIL</a>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=root%40sai-kanagat%3A~%24+whoami;Marketing+Engineer;Growth+Systems+Architect;%5BSystem+Ready%5D" alt="Terminal Typing" />
 </div>
 
-<br/><br/>
+```bash
+> USER: Sai Prathyaksh Kanagat
+> ROLE: Marketing Engineer & Growth Strategist
+> LOC: Bologna, Italy [EU Work Authorised]
 
-### SELECTED WORKS
-*Curated marketing infrastructure and AI systems.*
+> [0] INITIATING SYSTEM...
+> [OK] Loading brand positioning...
+> [OK] Bypassing vanity metrics...
+> [OK] Compiling multi-agent AI frameworks...
+> [OK] Status: Ready for deployment.
 
-**01. THALLO**
-A marketing operating system for SMEs that plans, drafts, and publishes only what a human approves. 
-*Stack: Python, FastAPI, Next.js*
-> [View Repository](https://github.com/Sai-Kanagat/thallo)
+## ⚡ ./execute_projects.sh
 
-**02. CONTENT VIGILANTE**
-An open-source, local-first marketing OS featuring a brand-voice auditor and hybrid AI judges. 
-*Stack: TypeScript, Next.js, npm*
-> [View Repository](https://github.com/Sai-Kanagat/Content-Vigilante)
+[+] THALLO ................. Marketing OS for SMEs (Python/FastAPI)
+[+] CORTEX-STUDIO .......... Multi-agent AI marketing (LangGraph)
+[+] CONTENT-VIGILANTE ...... Local-first brand voice auditor (TypeScript)
+[+] ADLIB .................. Meta ad reconnaissance (Playwright)
 
-**03. CORTEX STUDIO**
-A production-grade multi-agent marketing system with an 8-node agent graph and human-in-the-loop approval.
-*Stack: LangGraph, Python*
-> [View Repository](https://github.com/Sai-Kanagat/cortex-studio)
+## 🛠️ ./stack --list
+├── martech: GA4, GTM, HubSpot, Klaviyo, Meta Pixel
+├── frontend: Next.js, React, TypeScript, Framer
+├── backend: Python, FastAPI, PostgreSQL, Docker
+└── ai_ops: LangGraph, Claude, OpenAI, Midjourney
 
-<br/>
-
-### CAPABILITIES
-<table border="0">
-  <tr>
-    <td><b>STRATEGY</b></td>
-    <td>Brand Positioning, Go-to-Market, Creative Direction</td>
-  </tr>
-  <tr>
-    <td><b>GROWTH</b></td>
-    <td>Paid Media, CRO, SEO, Funnel Architecture, GA4/GTM</td>
-  </tr>
-  <tr>
-    <td><b>ENGINEERING</b></td>
-    <td>Next.js, Python, API Integrations, Agentic Workflows</td>
-  </tr>
-</table>
-<br/>
+## 📡 ./connect.sh
+<a href="https://www.saikanagat.com"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=00FF41" /></a>
+<a href="https://linkedin.com/in/sai-kanagat"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
