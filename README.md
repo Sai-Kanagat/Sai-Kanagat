@@ -1,64 +1,60 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1F1F1F&height=150&section=header&text=Sai%20Kanagat&fontSize=50&fontColor=F5F5F0&fontAlignY=50&animation=fadeIn" width="100%" />
+<h1 align="center">Sai Prathyaksh Kanagat</h1>
+<h3 align="center">Marketing Engineer · Growth Systems Architect</h3>
 
-  <h3>Marketing Engineer & Growth Strategist</h3>
-  
-  <p><i>I don’t just run campaigns. I engineer the systems that make them repeatable.</i></p>
-
-  <a href="https://www.saikanagat.com"><strong>Portfolio</strong></a> &nbsp;·&nbsp; 
-  <a href="https://linkedin.com/in/sai-kanagat"><strong>LinkedIn</strong></a> &nbsp;·&nbsp; 
-  <a href="mailto:saikanagat1117@gmail.com"><strong>Email</strong></a>
-</div>
-
-<br/>
-
-> **`$ whoami`**
-> I am a Brand and Growth Marketer with an industrial-design foundation. I build production-grade tools that solve real marketing problems—from multi-agent AI systems to consent-mode-compliant ad infrastructure. My work sits at the intersection of strategy, code, and creative direction.
+<p align="center">
+  <a href="https://www.saikanagat.com">Portfolio</a> •
+  <a href="https://linkedin.com/in/sai-kanagat">LinkedIn</a> •
+  <a href="mailto:saikanagat1117@gmail.com">Email</a> •
+  <a href="https://github.com/Sai-Kanagat">GitHub</a>
+</p>
 
 ---
 
-### ✦ Selected Systems & Architecture
+### / Profile
 
-<table border="0">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🌱 Thallo</h4>
-      <p><i>Grown, not generated.</i></p>
-      <p>A marketing operating system for SMEs. Plans, drafts, checks, and publishes only what a human has approved.</p>
-      <code>Python</code> <code>FastAPI</code> <code>Next.js</code>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🛡️ Content Vigilante</h4>
-      <p><i>Local-first marketing OS.</i></p>
-      <p>Brand-voice auditor, multi-platform composer, and hybrid CRM. Hybrid AI judges for content governance.</p>
-      <code>TypeScript</code> <code>Vercel</code> <code>npm</code>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🧠 Cortex Studio</h4>
-      <p><i>Multi-agent marketing.</i></p>
-      <p>An 8-node agent graph with guardrails, agentic memory, and human-in-the-loop approval.</p>
-      <code>LangGraph</code> <code>Python</code> <code>AI</code>
-    </td>
-  </tr>
-</table>
+I build the systems—from multi-agent AI tools to GA4/GTM architectures—that turn brand positioning into measurable pipeline. Six years of end-to-end ownership across B2B and D2C, with a portfolio of production-grade, open-source marketing tech.
+
+Currently building **Thallo**, a human-in-the-loop marketing OS for small businesses.
 
 ---
 
-### ✦ The Technical Arsenal
+### / Flagship Projects
 
-**Marketing Infrastructure**<br>
-`GA4` · `Google Tag Manager` · `Meta Pixel` · `Server-side Tagging` · `Consent Mode v2` · `HubSpot` · `Klaviyo` · `Looker Studio`
+**[Thallo](https://github.com/Sai-Kanagat/thallo)** — *Marketing System*
+A full marketing operating system for SMEs. It captures input, plans content, runs claims/brand/copy checks, and publishes only what a human has approved. Built with Python, FastAPI, Next.js, and Postgres.
 
-**Engineering & Web**<br>
-`Next.js` · `React` · `Python` · `FastAPI` · `TypeScript` · `PostgreSQL` · `Docker` · `Vercel` · `Webflow`
+**[Content Vigilante](https://github.com/Sai-Kanagat/Content-Vigilante)** — *Open-Source Tool*
+A local-first marketing OS featuring a brand-voice auditor, multi-platform composer, and scheduler. Hybrid AI judges (LLM + deterministic) for content governance. Published on npm (v2.5). Built with TypeScript and Next.js.
 
-**AI & Automation**<br>
-`Claude` · `OpenAI` · `LangGraph` · `Midjourney` · `Make` · `Zapier`
+**[cortex-studio](https://github.com/Sai-Kanagat/cortex-studio)** — *AI System*
+A production-grade multi-agent marketing system. Features an 8-node agent graph, guardrails, agentic memory, and human-in-the-loop approval. Built with Python and LangGraph.
+
+**[adlib](https://github.com/Sai-Kanagat/adlib)** — *Data Extraction*
+An open-source Chrome side panel for Meta ad reconnaissance. Features funnel-mix analysis, outlier scoring, and a Playwright-based scraping worker.
 
 ---
 
-<div align="center">
-  <br/>
-  <p><i>Currently based in Bologna, Italy. EU work-authorised.</i></p>
-  <p><a href="https://www.saikanagat.com"><img src="https://img.shields.io/badge/View_Live_Portfolio-1F1F1F?style=for-the-badge" alt="Portfolio"></a></p>
-</div>
+### / Stack
+
+**Analytics & MarTech**
+![GA4](https://img.shields.io/badge/GA4-000000?style=flat-square&logo=googleanalytics&logoColor=white)
+![GTM](https://img.shields.io/badge/GTM-000000?style=flat-square&logo=googletagmanager&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-000000?style=flat-square&logo=hubspot&logoColor=white)
+![Klaviyo](https://img.shields.io/badge/Klaviyo-000000?style=flat-square&logo=klaviyo&logoColor=white)
+
+**Engineering & Data**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-000000?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI & Agents**
+![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
+
+---
+
+<p align="center">
+  <sub>Bologna, Italy · EU Work Authorised · Open to Relocation</sub>
+</p>
