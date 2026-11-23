@@ -1,31 +1,40 @@
 <div align="center">
-  <h1>Sai Kanagat</h1>
-  <p><b>Marketing Engineer</b> · Systems · Data · Growth</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&height=100&lines=Sai+Kanagat;Marketing+Engineer" alt="Cyberpunk Typing" />
   
-  <img src="https://img.shields.io/badge/ROAS-3.2x-00C2FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Organic_Traffic-+40%25-A855F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CAC-25%25_Reduction-F59E0B?style=for-the-badge" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:FF00FF&height=50&section=header" width="100%" />
+  
+  <p><code>[ SYSTEM ONLINE ]</code> · <code> GROWTH PROTOCOL INITIATED </code></p>
 </div>
 
-<br/>
+### 🌐 // IDENTITY
+I don't just build campaigns. I engineer the underlying architecture. From server-side tracking to multi-agent AI, I build the engines that drive measurable B2B and D2C growth.
 
-### 📊 THE ARCHITECTURE
-| Layer | Technologies | Output |
-| :--- | :--- | :--- |
-| **Acquisition** | Meta Ads, Google Ads, SEO, Semrush | High-intent traffic |
-| **Data & Tracking** | GA4, GTM (Server-side), Consent Mode v2 | Accurate attribution |
-| **Automation** | HubSpot, Klaviyo, Brevo, Make | Lifecycle retention |
-| **Engineering** | Python, Next.js, LangGraph, FastAPI | Custom AI tools |
+### ⚡ // CORE SYSTEMS
+<table border="0" style="background-color: #0d1117; color: #c9d1d9;">
+  <tr>
+    
+    <td><b><font color="#FF00FF">THALLO</font></b></td>
+    <td>Marketing OS for SMEs. Human-in-the-loop approval.</td>
+  </tr>
+  <tr>
+    <td><b><font color="#00C2FF">VIGILANTE</font></b></td>
+    <td>Open-source brand voice auditor. Hybrid AI judges.</td>
+  </tr>
+  <tr>
+    <td><b><font color="#00FF41">CORTEX</font></b></td>
+    <td>Multi-agent marketing graph. FastAPI + LangGraph.</td>
+  </tr>
+</table>
 
-<br/>
+### 🧬 // TECH STACK
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00C2FF" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=chainlink&logoColor=FF00FF" />
+  <img src="https://img.shields.io/badge/GA4-000000?style=flat-square&logo=googleanalytics&logoColor=F59E0B" />
+</p>
 
-### 🚀 DEPLOYED SYSTEMS
-**Thallo** — A full marketing OS for SMEs. (Private build, walkthrough on request).
-**Content Vigilante** — Open-source brand-voice auditor. [View Code](https://github.com/Sai-Kanagat/Content-Vigilante)
-**Cortex Studio** — Multi-agent AI marketing graph. [View Code](https://github.com/Sai-Kanagat/cortex-studio)
-
-<br/>
-
-### 🔗 CONNECT
-<a href="https://www.saikanagat.com"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/sai-kanagat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<div align="center">
+  <a href="https://www.saikanagat.com"><strong>[ ACCESS PORTFOLIO ]</strong></a>
+</div>
