@@ -1,33 +1,31 @@
-<h1 align="center">SAI KANAGAT</h1>
-<h3 align="center">MARKETING ENGINEER</h3>
-
-<table width="100%" border="1" style="border-collapse: collapse; text-align: center; border-color: #000;">
-  <tr>
-    <td width="33%" bgcolor="#000000"><font color="#ffffff"><b>STRATEGY</b></font></td>
-    <td width="33%" bgcolor="#000000"><font color="#ffffff"><b>CODE</b></font></td>
-    <td width="33%" bgcolor="#000000"><font color="#ffffff"><b>CREATIVE</b></font></td>
-  </tr>
-  <tr>
-    <td>Brand Positioning<br/>Go-to-Market<br/>Growth Ops</td>
-    <td>Next.js<br/>Python / FastAPI<br/>GA4 / GTM</td>
-    <td>Art Direction<br/>Copywriting<br/>Industrial Design</td>
-  </tr>
-</table>
-
-<br/>
-
-### [ 01 ] THALLO
-**A HUMAN-IN-THE-LOOP MARKETING OS.**
-> [ VIEW REPO ](https://github.com/Sai-Kanagat/thallo)
-> *Python, FastAPI, Next.js*
-
-### [ 02 ] CONTENT VIGILANTE
-**LOCAL-FIRST BRAND VOICE AUDITOR.**
-> [ VIEW REPO ](https://github.com/Sai-Kanagat/Content-Vigilante)
-> *TypeScript, Next.js, npm*
-
-<br/>
 <div align="center">
-  <h2>BOLOGNA, ITALY · EU AUTHORISED</h2>
-  <a href="https://www.saikanagat.com">PORTFOLIO</a> — <a href="mailto:saikanagat1117@gmail.com">CONTACT</a>
+  <h1>Sai Kanagat</h1>
+  <p><b>Marketing Engineer</b> · Systems · Data · Growth</p>
+  
+  <img src="https://img.shields.io/badge/ROAS-3.2x-00C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Organic_Traffic-+40%25-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CAC-25%25_Reduction-F59E0B?style=for-the-badge" />
 </div>
+
+<br/>
+
+### 📊 THE ARCHITECTURE
+| Layer | Technologies | Output |
+| :--- | :--- | :--- |
+| **Acquisition** | Meta Ads, Google Ads, SEO, Semrush | High-intent traffic |
+| **Data & Tracking** | GA4, GTM (Server-side), Consent Mode v2 | Accurate attribution |
+| **Automation** | HubSpot, Klaviyo, Brevo, Make | Lifecycle retention |
+| **Engineering** | Python, Next.js, LangGraph, FastAPI | Custom AI tools |
+
+<br/>
+
+### 🚀 DEPLOYED SYSTEMS
+**Thallo** — A full marketing OS for SMEs. (Private build, walkthrough on request).
+**Content Vigilante** — Open-source brand-voice auditor. [View Code](https://github.com/Sai-Kanagat/Content-Vigilante)
+**Cortex Studio** — Multi-agent AI marketing graph. [View Code](https://github.com/Sai-Kanagat/cortex-studio)
+
+<br/>
+
+### 🔗 CONNECT
+<a href="https://www.saikanagat.com"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sai-kanagat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
