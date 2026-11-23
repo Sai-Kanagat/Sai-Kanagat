@@ -1,60 +1,55 @@
-<h1 align="center">Sai Prathyaksh Kanagat</h1>
-<h3 align="center">Marketing Engineer · Growth Systems Architect</h3>
+<div align="center">
+  <br/>
+  <h2><i>PORTFOLIO & SYSTEMS</i></h2>
+  <h1>SAI KANAGAT</h1>
+  <p><b>MARKETING ENGINEER & GROWTH STRATEGIST</b></p>
+  <br/>
+  <hr style="width:50%; border: 1px solid #000;">
+  <br/>
+  <p><i>"I don't just run campaigns. I engineer the systems that make them repeatable."</i></p>
+  <br/>
+  <p>
+    <a href="https://www.saikanagat.com">WEBSITE</a> &nbsp;|&nbsp; 
+    <a href="https://linkedin.com/in/sai-kanagat">LINKEDIN</a> &nbsp;|&nbsp; 
+    <a href="mailto:saikanagat1117@gmail.com">EMAIL</a>
+  </p>
+</div>
 
-<p align="center">
-  <a href="https://www.saikanagat.com">Portfolio</a> •
-  <a href="https://linkedin.com/in/sai-kanagat">LinkedIn</a> •
-  <a href="mailto:saikanagat1117@gmail.com">Email</a> •
-  <a href="https://github.com/Sai-Kanagat">GitHub</a>
-</p>
+<br/><br/>
 
----
+### SELECTED WORKS
+*Curated marketing infrastructure and AI systems.*
 
-### / Profile
+**01. THALLO**
+A marketing operating system for SMEs that plans, drafts, and publishes only what a human approves. 
+*Stack: Python, FastAPI, Next.js*
+> [View Repository](https://github.com/Sai-Kanagat/thallo)
 
-I build the systems—from multi-agent AI tools to GA4/GTM architectures—that turn brand positioning into measurable pipeline. Six years of end-to-end ownership across B2B and D2C, with a portfolio of production-grade, open-source marketing tech.
+**02. CONTENT VIGILANTE**
+An open-source, local-first marketing OS featuring a brand-voice auditor and hybrid AI judges. 
+*Stack: TypeScript, Next.js, npm*
+> [View Repository](https://github.com/Sai-Kanagat/Content-Vigilante)
 
-Currently building **Thallo**, a human-in-the-loop marketing OS for small businesses.
+**03. CORTEX STUDIO**
+A production-grade multi-agent marketing system with an 8-node agent graph and human-in-the-loop approval.
+*Stack: LangGraph, Python*
+> [View Repository](https://github.com/Sai-Kanagat/cortex-studio)
 
----
+<br/>
 
-### / Flagship Projects
-
-**[Thallo](https://github.com/Sai-Kanagat/thallo)** — *Marketing System*
-A full marketing operating system for SMEs. It captures input, plans content, runs claims/brand/copy checks, and publishes only what a human has approved. Built with Python, FastAPI, Next.js, and Postgres.
-
-**[Content Vigilante](https://github.com/Sai-Kanagat/Content-Vigilante)** — *Open-Source Tool*
-A local-first marketing OS featuring a brand-voice auditor, multi-platform composer, and scheduler. Hybrid AI judges (LLM + deterministic) for content governance. Published on npm (v2.5). Built with TypeScript and Next.js.
-
-**[cortex-studio](https://github.com/Sai-Kanagat/cortex-studio)** — *AI System*
-A production-grade multi-agent marketing system. Features an 8-node agent graph, guardrails, agentic memory, and human-in-the-loop approval. Built with Python and LangGraph.
-
-**[adlib](https://github.com/Sai-Kanagat/adlib)** — *Data Extraction*
-An open-source Chrome side panel for Meta ad reconnaissance. Features funnel-mix analysis, outlier scoring, and a Playwright-based scraping worker.
-
----
-
-### / Stack
-
-**Analytics & MarTech**
-![GA4](https://img.shields.io/badge/GA4-000000?style=flat-square&logo=googleanalytics&logoColor=white)
-![GTM](https://img.shields.io/badge/GTM-000000?style=flat-square&logo=googletagmanager&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-000000?style=flat-square&logo=hubspot&logoColor=white)
-![Klaviyo](https://img.shields.io/badge/Klaviyo-000000?style=flat-square&logo=klaviyo&logoColor=white)
-
-**Engineering & Data**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-000000?style=flat-square&logo=postgresql&logoColor=white)
-
-**AI & Agents**
-![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
-
----
-
-<p align="center">
-  <sub>Bologna, Italy · EU Work Authorised · Open to Relocation</sub>
-</p>
+### CAPABILITIES
+<table border="0">
+  <tr>
+    <td><b>STRATEGY</b></td>
+    <td>Brand Positioning, Go-to-Market, Creative Direction</td>
+  </tr>
+  <tr>
+    <td><b>GROWTH</b></td>
+    <td>Paid Media, CRO, SEO, Funnel Architecture, GA4/GTM</td>
+  </tr>
+  <tr>
+    <td><b>ENGINEERING</b></td>
+    <td>Next.js, Python, API Integrations, Agentic Workflows</td>
+  </tr>
+</table>
+<br/>
