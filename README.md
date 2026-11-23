@@ -1,42 +1,18 @@
-<br/><br/><br/>
 <div align="center">
-  <h1>Sai Kanagat</h1>
-  <p><code>Marketing Engineer</code></p>
-  <br/>
-  <p>I build the systems that turn brand positioning into measurable pipeline.</p>
-  <br/><br/>
-  <a href="https://www.saikanagat.com">Portfolio</a> &nbsp;&nbsp;·&nbsp;&nbsp; 
-  <a href="https://linkedin.com/in/sai-kanagat">LinkedIn</a> &nbsp;&nbsp;·&nbsp;&nbsp; 
-  <a href="mailto:saikanagat1117@gmail.com">Email</a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=Sai%20Kanagat&fontSize=50&fontColor=00FF41&fontAlignY=50&animation=twinkling" width="100%" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=600&lines=%5BSYSTEM+BOOT%5D+...;%5BOK%5D+Loading+Marketing+Engineer+Profile;%5BOK%5D+Initializing+Growth+Systems;%5B%3E%5D+Welcome%2C+User." alt="Typing SVG" />
+  </a>
 </div>
-<br/><br/><br/>
-
----
 
 <br/>
 
-### Projects
+```bash
+> root@saikanagat:~# whoami
+Sai Prathyaksh Kanagat · Marketing Engineer & Growth Strategist
+> root@saikanagat:~# location
+Bologna, Italy [EU Work Authorised] · Open to EU & UK
 
-**[Thallo](https://github.com/Sai-Kanagat/thallo)**
-A marketing OS for SMEs. Plans, drafts, checks, and publishes only what a human has approved.
-<br/>`Python` · `FastAPI` · `Next.js`
-
-**[Content Vigilante](https://github.com/Sai-Kanagat/Content-Vigilante)**
-Local-first brand-voice auditor and hybrid CRM. Published on npm.
-<br/>`TypeScript` · `Vercel` · `npm`
-
-**[Cortex Studio](https://github.com/Sai-Kanagat/cortex-studio)**
-Multi-agent marketing graph with guardrails and human-in-the-loop approval.
-<br/>`LangGraph` · `Python`
-
-<br/><br/><br/>
-
----
-
-<br/>
-
-### Stack
-
-`GA4` `GTM` `Meta Pixel` `HubSpot` `Klaviyo` `Next.js` `Python` `FastAPI` `PostgreSQL` `LangGraph` `Figma`
-
-<br/><br/><br/>
+> root@saikanagat:~# cat mission.txt
+I build the systems—from multi-agent AI tools to GA4/GTM architectures—that turn brand positioning into measurable pipeline. I don't just run campaigns; I engineer the machines that make them repeatable.
